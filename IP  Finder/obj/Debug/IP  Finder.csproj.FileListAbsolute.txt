@@ -1,0 +1,7 @@
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\bin\Debug\IP  Finder.exe.config
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\bin\Debug\IP  Finder.exe
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\bin\Debug\IP  Finder.pdb
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\obj\Debug\IP  Finder.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\obj\Debug\IP  Finder.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\obj\Debug\IP  Finder.exe
+C:\Users\brand\source\repos\IP  Finder\IP  Finder\obj\Debug\IP  Finder.pdb
